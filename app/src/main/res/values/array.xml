@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="pref_sortOrder_entries">
+        <item selected="true">Most popular</item>
+        <item>Highest rated</item>
+        <item>Favorites</item>
+    </string-array>
+</resources>
